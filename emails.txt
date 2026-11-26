@@ -1,0 +1,4 @@
+student@gmail.com
+teacher@yahoo.com
+admin@gmail.com
+support@company.com
